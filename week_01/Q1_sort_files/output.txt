@@ -1,0 +1,17 @@
+root@Ilyatj:/mnt/d/Programing/YOLO/objectdetection-yolo-main_2/objectdetection-yolo-main# ls -lS
+total 15544
+-rwxrwxrwx 1 root root 5270210 Sep 27 07:05  shapeWeights.pt
+-rwxrwxrwx 1 root root 5265218 Sep 27 07:05  arrowWeights.pt
+-rwxrwxrwx 1 root root 5265218 Sep 27 07:05  pipelineWeights.pt
+-rwxrwxrwx 1 root root   17388 Oct 14 22:53  tempCodeRunnerFile.py
+-rwxrwxrwx 1 root root   17388 Oct 14 22:53 'track_&_count.py'
+-rwxrwxrwx 1 root root   13782 Sep 27 07:05  pipline.py
+-rwxrwxrwx 1 root root   10176 Sep 27 07:05  track2.0.py
+-rwxrwxrwx 1 root root    7548 Oct 14 22:50  arrow_guidance.py
+-rwxrwxrwx 1 root root    6078 Sep 27 07:05  counter.py
+-rwxrwxrwx 1 root root    4937 Oct  1 16:56  pipeline2.0.py
+-rwxrwxrwx 1 root root    4200 Sep 27 07:05  arrow_detection.py
+drwxrwxrwx 1 root root    4096 Oct  1 10:51  weights
+-rwxrwxrwx 1 root root    2667 Oct 14 22:52  lines.py
+-rwxrwxrwx 1 root root    2079 Sep 27 07:05  requirements.txt
+root@Ilyatj:/mnt/d/Programing/YOLO/objectdetection-yolo-main_2/objectdetection-yolo-main#
