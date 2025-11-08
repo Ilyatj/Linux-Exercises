@@ -1,4 +1,5 @@
-echo "Hello Linux" > project/info.txt
-ln project/info.txt project/info_h.txt
-ln -s project/info.txt project/info_s.txt
+echo "Hello Linux" > info.txt
+ln project/info.txt info_h.txt
+ln -s project/info.txt info_s.txt
 rm project/info.txt
+
