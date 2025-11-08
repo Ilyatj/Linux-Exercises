@@ -1,5 +1,6 @@
 echo "Hello Linux" > info.txt
-ln project/info.txt info_h.txt
-ln -s project/info.txt info_s.txt
+ln info.txt info_h.txt
+ln -s info.txt info_s.txt
 rm project/info.txt
+
 
