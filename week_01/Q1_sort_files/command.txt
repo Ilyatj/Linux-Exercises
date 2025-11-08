@@ -1,0 +1,3 @@
+ls -lS
+-l → long listing format
+-S → sort by file size (largest first)
