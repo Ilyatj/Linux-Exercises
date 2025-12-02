@@ -1,6 +1,6 @@
 # Linux Course - Extra Credit Exercises
 
-This repository contains all my Linux practice tasks for extra credit.
+This repository contains all my Linux practice tasks through OS Lab course.
 
 ## 📁 Structure
 - `week_01/` → Linux Fundamentals
