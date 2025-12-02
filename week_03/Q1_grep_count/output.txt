@@ -1,0 +1,2 @@
+root@Ilyatj:/mnt/d/Programing/OS_Lab/Linux-Exercises# grep -c "/bin/bash" /etc/passwd
+3
