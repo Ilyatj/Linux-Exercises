@@ -1,0 +1,4 @@
+echo "Hello Linux" > info.txt
+ln info.txt info_h.txt
+ln -s info.txt info_s.txt
+rm info.txt

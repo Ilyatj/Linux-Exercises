@@ -1,0 +1,1 @@
+mkdir -p project/assets/css project/assets/py project/pages

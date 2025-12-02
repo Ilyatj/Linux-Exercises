@@ -3,7 +3,8 @@
 This repository contains all my Linux practice tasks for extra credit.
 
 ## 📁 Structure
-- `week1/` → Linux Fundamentals
+- `week_01/` → Linux Fundamentals
+- `week_02/` → Files and Directories
   
 ## 🧑‍💻 Author
 **Ilya Toozandehjani**  
