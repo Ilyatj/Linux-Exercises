@@ -1,6 +1,6 @@
 # Linux Course - Exercises
 
-This repository contains all my Linux practice tasks through OS Lab course.
+This repository is structured to hold all weekly practice assignments from the OS Lab course. Each task includes the necessary scripts and documentation for transparent evaluation.
 
 ## 📁 Structure
 - `week_01/` → Linux Fundamentals
