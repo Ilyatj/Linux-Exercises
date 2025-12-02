@@ -1,0 +1,2 @@
+مثال ترکیب cat، tr و sort:
+cat input_file.txt | tr 'a-z' 'A-Z' | sort
