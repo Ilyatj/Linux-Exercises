@@ -34,5 +34,3 @@ ifconfig — network configuration
 
 reboot — restart the system
 
-✅ Intended for system administrators
-✅ Usually requires root
