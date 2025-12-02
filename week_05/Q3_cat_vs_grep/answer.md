@@ -1,4 +1,4 @@
-۱. grep "word" file.txt (روش بهینه):
+۱. grep "word" file.txt (Optimized):
 تنها یک پروسه (grep) اجرا می‌شود. سریع‌تر و کارآمدتر است.
 
 ۲. cat file.txt | grep "word" (Useless Use of cat):
