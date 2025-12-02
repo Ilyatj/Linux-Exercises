@@ -15,4 +15,3 @@ drwxrwxrwx 1 root root    4096 Oct  1 10:51  weights
 -rwxrwxrwx 1 root root    2667 Oct 14 22:52  lines.py
 -rwxrwxrwx 1 root root    2079 Sep 27 07:05  requirements.txt
 root@Ilyatj:/mnt/d/Programing/YOLO/objectdetection-yolo-main_2/objectdetection-yolo-main
-
