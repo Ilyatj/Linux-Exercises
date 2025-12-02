@@ -1,1 +1,8 @@
 dmesg | grep -E 'fail|error' > kernel_errors.log
+dmesg: خواندن لاگ‌های هسته (کرنل).
+
+grep -E 'fail|error': فیلتر کردن خطوط شامل "fail" یا "error".
+
+ -E: Extended Regular Expressions 
+
+> kernel_errors.log: ذخیره کردن نتیجه نهایی در فایل.
