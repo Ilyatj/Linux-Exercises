@@ -1,1 +1,1 @@
-find /etc -name "*.conf
+find /etc -name "*.conf"
