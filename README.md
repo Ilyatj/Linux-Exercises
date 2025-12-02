@@ -1,4 +1,4 @@
-# Linux Course - Extra Credit Exercises
+# Linux Course - Exercises
 
 This repository contains all my Linux practice tasks through OS Lab course.
 
