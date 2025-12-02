@@ -1,0 +1,4 @@
+User (---) = 0+0+0 = 0
+Group (rwx) = 4+2+1 = 7
+Others (r-x) = 4+0+1 = 5
+Result: 075
